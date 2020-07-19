@@ -78,7 +78,8 @@ ENV/
 .idea/**/uiDesigner.xml 
 .idea/**/gradle.xml 
 .idea/**/libraries 
-*.iws /out/ 
+*.iws /out/
+.idea/*
 
 # Sublime Text
 *.tmlanguage.cache 
